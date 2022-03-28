@@ -1,0 +1,19 @@
+.odd-classes {
+    background-color: rgb(238, 104, 115);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.unique-class {
+    font-size: 24px;
+}
+
+#first-id {
+    color: rgb(0, 0, 220);
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: rgb(0, 220, 0);
+    font-weight: bold;
+    font-size: 24px;
+}
